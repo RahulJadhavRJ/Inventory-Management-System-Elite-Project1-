@@ -1,0 +1,2 @@
+# Inventory-Management-System-Elite-Project1-
+In this project I create a list of 50 stocks availability with its unique id ,by tkinter listbox it will visible on screen,after that customer can enter how many number of products he want to purchase .after code execution all product name with it's amount will display .At the end it will show the total amount to pay .It also update the data of purchase orders in stock.txt file and how many products sell it will update in sell.txt
